@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skyla Urman</h1>
 <h3 align="center">A passionate developer from the US</h3>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning **Machine learning and Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/skylaanne](https://github.com/skylaanne)
 
