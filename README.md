@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **skylaurman@gmail.com**
 
-- ⚡ Fun fact **I love hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
